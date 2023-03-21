@@ -10,12 +10,40 @@
     <h1>basic-html-2023</h1>
     <hr>
     <p>Java 개발자 과정 프론트앤드 리포지토리</p>
+
     <h2>1일차</h2>
     <hr>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <ul>
+        <li>웹 기본</li>
+        <li>웹 개발 학습</li>
+            <ul>
+                <li>HTML 5 기본</li>
+            </ul>
+    </ul>
+
     <h3>제목글자 h3</h3>
     <h4>제목글자 h4</h4>
     <h5>제목글자 h5</h5>
     <h6>제목글자 h6</h6>
+    <hr>
+
+    <!-- a 태그(앵커태그) -->
+    <!-- target="_blank" : 새로운 창 / target="_self" : 기존 창(default) -->
+    <!-- 1. 절대 경로 : 경로를 처음부터 끝까지 다 적는 것 -->
+    <a href="https://www.google.com" target="_blank">구글</a>
+    <a href="https://www.naver.com">네이버</a>
+    <a href="https://github.com/yeofriendship/basic-html-2023">깃헙</a>
+    <a href="C:/source/basic-html-2023/Day01/fe01_firstweb.html">첫번째 웹 - 절대경로</a>
+    <br>
+    <!-- 2. 상대 경로 : 내가 있는 나의 위치에서 상대적으로 가는 위치의 값을 찾아가는 것 -->
+    <!-- . : 나의 위치(같은 폴더) / .. : 부모 폴더 위치(상위 폴더) -->
+    <a href="./fe01_firstweb.html">첫번째 웹 - 상대경로</a>
+    <a href="../test.html">부모폴더의 웹 페이지</a>
+    <br>
+    <!-- 3. 메일 경로 : 해당 주소로 메일 전송 -->
+    <a href="mailto:personar95@naver.com">강사에게 메일보내기</a>
+    <br>
+    <!-- 4. 아이디 경로 : id 속성이 ???인 태그의 위치로 이동 -->
+    <!-- fe06_basicanchor.html 에서 실습 -->
 </body>
 </html>
