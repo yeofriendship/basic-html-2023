@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>자손/후손 선택자</title>
+    <style>
+        /* 자손 선택자 */
+        #header > h1 { color: tomato; }
+        #section > p { color: teal; }
+        #header > #nav > h1 { color: blueviolet; }
+
+        /* 후손 선택자 */
+        /* #header h1, h2 { color: violet; } */
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1 class="title">Lorem ipsum</h1>
+        <div id="nav">
+            <h1>Navigation</h1>
+            <div>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus soluta nulla placeat voluptatum porro quia eius, incidunt cupiditate necessitatibus mollitia odio! Possimus itaque iste fuga veritatis vitae! Nostrum, voluptatibus quis.</p>
+                <h1>sub Title</h1>
+            </div>
+            <h2>작은 제목</h2>
+        </div>
+    </div>
+    <div id="section">
+        <h1 class="title">Lorem ipsum</h1>
+        <p class="content">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium consequuntur, dolorum maiores molestiae delectus cumque iusto voluptatibus minima placeat! At assumenda ab voluptatem qui ipsa asperiores. At modi sequi laudantium.</p>
+    </div>
+</body>
+</html>

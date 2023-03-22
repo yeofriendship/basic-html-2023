@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>폼 양식</title>
+</head>
+<body>
+    <!-- form 태그 - action="" => 자기 자신(기존 페이지) -->
+    <form action="" method="get">
+        <!-- 사용자 입력 양식 -->
+
+        <input type="text" name="text" value="text"><br>
+        <input type="password" name="password" value="12345"><br>
+        <input type="file" name="profile"><br>
+
+        <!-- checkbox 는 여러개 선택 OK -->
+        <input type="checkbox" name="fruit" value="사과">사과
+        <input type="checkbox" name="fruit" value="바나나">바나나
+        <input type="checkbox" name="fruit" value="파인애플">파인애플<br>
+
+        <!-- radio 는 여러개 선택 X, 한개만 선택 OK -->
+        <input type="radio" name="gender" value="남자">남자
+        <input type="radio" name="gender" value="여자">여자<br>
+
+        <!-- ------------------------------------------------------------------ -->
+        <!-- 히든 양식 -->
+        <input type="hidden" name="code" value="TH1234">
+
+        <!-- ------------------------------------------------------------------ -->
+        <!-- 버튼-->
+        <input type="button" value="클릭">
+        <input type="reset" value="초기화">
+        <input type="submit" value="승인"><br>
+
+        <!-- 이미지 -->
+        <!-- input 태그 - image 클릭 => 이미지의 x, y값 전달 -->
+        <input type="image" src="http://placehold.it/100x100"><br>
+        <img src="http://placehold.it/200x100">
+    </form>
+</body>
+</html>
