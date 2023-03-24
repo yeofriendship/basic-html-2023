@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>이벤트</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script>
+        // 이벤트 매개변수 사용
+        // event.type : 종류 확인
+        window.onload = function (event) {
+            alert(event.type); // load 타입
+
+            var btnSave = document.getElementById('btnSave');
+
+            btnSave.onclick = function (e) {
+                alert(e.type); // click 타입
+            }
+        };
+
+        // javascript의 특징
+        // (1) 변수 선언이 쉽다 => var 하나로 모든 타입의 변수 선언이 가능
+        // (2) java와 조건문, 반복문이 동일
+        // (3) DOM으로 HTML 태그를 전부 컨트롤 가능
+        // (4) function () {} => 익명함수 형태의 함수 선언이 일반적
+    </script>
+</head>
+<body>
+    <!-- <button ondblclick="alert('더블 클릭');">더블 클릭</button> -->
+    <button id="btnSave">클릭</button>
+</body>
+</html>
