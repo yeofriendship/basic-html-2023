@@ -43,8 +43,13 @@ Java 개발자 과정 프론트앤드 리포지토리
 
 <img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/gallery01.png" width="600">
 
-## 5일차 (2023년 3월 일)
+## 5일차 (2023년 3월 27일)
 - 프론트엔드 학습
     - js/jQuery 연동
     - Bootstrap 학습
+    - Bootstrap Album example 클로닝
+
+## 6일차 (2023년 3월 28일)
+- 프론트엔드 학습
+    - Bootstrap Album example 마무리
     - 포트폴리오 웹 사이트 만들기
