@@ -52,4 +52,7 @@ Java 개발자 과정 프론트앤드 리포지토리
 ## 6일차 (2023년 3월 28일)
 - 프론트엔드 학습
     - Bootstrap Album example 마무리
+
+<img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/album_theme.png" width="700">
+
     - 포트폴리오 웹 사이트 만들기
