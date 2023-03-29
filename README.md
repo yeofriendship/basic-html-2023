@@ -65,8 +65,20 @@ Java 개발자 과정 프론트앤드 리포지토리
         - jQuery 3.6.4
         - Masonry layout Library
         - ImageLoaded Library
-        - Lightbox 구현 
+        - Lightbox 구현
+    - Parallax Scrolling Web
+    - Single Page Template
+        - Bootstrap
+        - jQuery
 
 7일차 핀터레스트 스타일 클로닝
 
 <img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/portfolio1.png" width="700">
+
+Parallax Scrolling Web
+
+<img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/portfolio2.png" width="700">
+
+## 8일차 (2023년 3월 30일)
+- 프론트엔드 학습
+    - Single Page Template
