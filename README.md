@@ -87,4 +87,3 @@ Parallax Scrolling Web
 Grayscale Single Page Template
 
 <img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/portfolio3.gif" width="700">
-<img src="https://github.com/yeofriendship/basic-html-2023/blob/main/image/portfolio3.gif" width="700" />
