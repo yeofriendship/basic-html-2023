@@ -59,7 +59,7 @@ Java 개발자 과정 프론트앤드 리포지토리
 <img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/album_theme.png" width="700">
 
 ## 7일차 (2023년 3월 29일)
-- 프론트엔드 학습
+- 프론트엔드 실습
     - 핀터레스트 스타일 웹페이지 마무리
         - Bootstrap 5.3.0
         - jQuery 3.6.4
@@ -80,7 +80,7 @@ Parallax Scrolling Web
 <img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/portfolio2.png" width="700">
 
 ## 8일차 (2023년 3월 30일)
-- 프론트엔드 학습
+- 프론트엔드 실습
     - Single Page Template
     - SB Admin Page
 
@@ -89,8 +89,24 @@ Grayscale Single Page Template
 <img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/portfolio3.gif" width="700">
 
 ## 9일차 (2023년 3월 31일)
-- 프론트엔드 학습
+- 프론트엔드 실습
     - SB Admin Page
 
 SB Admin Page 중간단계
+
+<img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/portfolio4_middle.png" width="700">
+
+## 10일차 (2023년 4월 3일)
+- 프론트엔드 실습
+    - SB Admin Page 마무리
+        - [simple-datatables.js](https://github.com/fiduswriter/simple-datatables)
+
+SB Admin Page 마무리
+
 <img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/portfolio4.png" width="700">
+
+## 11일차 (2023년 4월 4일)
+- 프론트엔드 실습
+
+## 12일차 (2023년 4월 5일)
+- 프론트엔드 실습
