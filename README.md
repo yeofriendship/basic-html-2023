@@ -108,5 +108,10 @@ SB Admin Page 마무리
 ## 11일차 (2023년 4월 4일)
 - 프론트엔드 실습
 
+Do it! HTML+CSS+자바스크립트 웹 표준의 정석-실습자료
+Dream Jeju
+
+<img src="https://raw.githubusercontent.com/yeofriendship/basic-html-2023/main/image/jeju.png" width="700">
+
 ## 12일차 (2023년 4월 5일)
 - 프론트엔드 실습
